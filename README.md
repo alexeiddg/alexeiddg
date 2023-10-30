@@ -12,11 +12,11 @@ My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológi
 - ⚡ Fun fact: ...
 
 ## Education
-- **[Degree Name]** in [Major/Field], [University Name], [Graduation Year]
+- **[Bachelor of Science in Computer Science and Technology]** in [Tecnológico y de Estudios Superiores de Monterrey], [2026 (Expected)]
   - [Any relevant honors, awards, or achievements]
 
 ## Languages
-- [List any languages you speak or are proficient in.]
+- JavaScript, Python, C++, C, Matlab. 
 
 ## Interests
 - [Your personal or professional interests outside of work.]
