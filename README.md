@@ -2,8 +2,8 @@
 
 ## Introduction
 My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológico y de Estudios Superiores de Monterrey. 
-- I’m currently working on *IoT Smart Irrigation system using C, Arduino, and Blynk.*
-- I’m currently learning *Deep dive into algorithms and learning German as my 4th language.*
+- I’m currently working on: *IoT Smart Irrigation system using C, Arduino, and Blynk.*
+- I’m currently learning: *Deep dive into algorithms and learning German as my 4th language.*
 - I’m looking to collaborate on **
 - How to reach me: ...
 - Fun fact: ...
