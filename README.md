@@ -10,7 +10,7 @@ My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológi
 
 Always looking to collaborate, work, and learn. Reach me through my socials, let's connect!
 
-### Education
+### Education & Experience
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
 
 ### Languages & Technologies
