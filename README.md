@@ -12,8 +12,8 @@ My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológi
 - ⚡ Fun fact: ...
 
 ## Education
-- **[Bachelor of Science in Computer Science and Technology]** in [Tecnológico y de Estudios Superiores de Monterrey], [2026 (Expected)]
-  - [Any relevant honors, awards, or achievements]
+- **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
+  - Any relevant honors, awards, or achievements
 
 ## Languages
 - JavaScript, Python, C++, C, Matlab. 
