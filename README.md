@@ -1,40 +1,19 @@
-### Hi there, I'm Alexei! 👋
+## Hi there, I'm Alexei! 👋
+[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/alexei-delgado-5729b8266)
+[![Send me an email!](https://shields.io/badge/%F0%9F%93%AC%20A01637405@tec.mx-beige?style=for-the-badge)](mailto:A01637405@tec.mx)
+[![My Resume](https://shields.io/badge/%F0%9F%93%84%20my%20r%C3%A9sum%C3%A9-gray?&style=for-the-badge)]()
 
-## Introduction
+### Introduction
 My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológico y de Estudios Superiores de Monterrey. 
 - I’m currently working on: *IoT Smart Irrigation system using C, Arduino, and Blynk.*
 - I’m currently learning: *Deep dive into algorithms and learning German as my 4th language.*
-- I’m looking to collaborate on **
-- How to reach me: ...
-- Fun fact: ...
 
-## Education
+Always looking to collaborate, work, and learn. Reach me through my socials, let's connect!
+
+### Education
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
-  - Any relevant honors, awards, or achievements
 
-## Languages
-- JavaScript, Python, C++, C, Matlab. 
+### Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,mongodb,matlab,py,r,github)](https://skillicons.dev) 
 
-## Interests
-- [Your personal or professional interests outside of work.]
-
-## Skills
-- [List of key skills relevant to your career.]
-
-## Certifications
-- [List any relevant certifications or training programs you've completed.]
-
-<!--
-**alexeiddg/alexeiddg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeiddg&layout=compact)
