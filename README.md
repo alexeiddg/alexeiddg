@@ -1,6 +1,6 @@
 ## Hi there, I'm Alexei! 👋
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/alexei-delgado-5729b8266)
-[![Send me an email!](https://shields.io/badge/%F0%9F%93%AC%20A01637405@tec.mx-beige?style=for-the-badge)](mailto:A01637405@tec.mx)
+[![Send me an email!](https://shields.io/badge/A01637405@tec.mx-purple?style=for-the-badge)](mailto:A01637405@tec.mx)
 [![My Resume](https://shields.io/badge/%F0%9F%93%84%20my%20r%C3%A9sum%C3%A9-gray?&style=for-the-badge)]()
 
 ### Introduction
