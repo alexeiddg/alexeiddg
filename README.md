@@ -5,7 +5,7 @@
 
 ### Introduction
 My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológico y de Estudios Superiores de Monterrey. k.*
-- I’m currently learning: *Deep dive into algorithms and learning German as my 4th language.*
+- I’m currently learning: *Deep Learning, ML and learning German as my 4th language.*
 
 Always looking to collaborate, work, and learn. Reach me through my socials, let's connect!
 
