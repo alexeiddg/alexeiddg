@@ -4,7 +4,7 @@
 [![My Resume](https://shields.io/badge/%F0%9F%93%84%20my%20r%C3%A9sum%C3%A9-gray?&style=for-the-badge)]()
 
 ### Introduction
-My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológico y de Estudios Superiores de Monterrey. k.*
+My name is Alexei Delgado, I'm a second-year Software Engineer at the Tecnológico y de Estudios Superiores de Monterrey.
 - I’m currently learning: *Deep Learning, ML and learning German as my 4th language.*
 
 Always looking to collaborate, work, and learn. Reach me through my socials, let's connect!
