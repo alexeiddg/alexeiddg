@@ -15,4 +15,4 @@ My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineerin
 - **French** A2 Level
 
 ### Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,matlab,py,r,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,py,r)](https://skillicons.dev) 
