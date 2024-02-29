@@ -17,5 +17,3 @@ My name is Alexei Delgado, I'm a second-year Computer Science and Engineering st
 
 ### Languages & Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,matlab,py,r,github)](https://skillicons.dev) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeiddg&layout=compact)
