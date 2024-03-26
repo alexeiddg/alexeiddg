@@ -4,7 +4,8 @@
 [![My Resume](https://shields.io/badge/%F0%9F%92%BC%20my%20r%C3%A9sum%C3%A9-f5f5dc?&style=for-the-badge)]()
 
 My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. 
-- I’m currently learning: *JavaScript programming, front-end technologies like HTML, CSS, and React, and building secure back-ends with Node/Express and PostgreSQL.*
+- I’m currently learning: *JavaScript programming, front-end technologies like HTML, CSS, and React, and building secure back-ends with Node/Express MySQL and PostgreSQL.*
+- Getting my AWS Solutions Architect Certification!
 
 ### Education:
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
@@ -15,4 +16,4 @@ My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineerin
 - **French** A2 Level
 
 ### Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,py,r)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,py,r,js,html,CSS)](https://skillicons.dev) 
