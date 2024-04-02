@@ -15,5 +15,8 @@ My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineerin
 - **Spanish** Native Language
 - **French** A2 Level
 
-### Languages & Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,py,r,js,html,CSS)](https://skillicons.dev) 
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,c,js,ts,r)](https://skillicons.dev) 
+
+### Technologies
+[![My Skills](https://skillicons.dev/icons?i=aws,vue,react,postgres,mongodb,git)](https://skillicons.dev) 
