@@ -20,3 +20,5 @@ My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineerin
 
 ### Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,vue,react,postgres,mongodb,git)](https://skillicons.dev) 
+
+<img src="https://raw.githubusercontent.com/alexeiddg/alexeiddg/output/snake.svg" alt="Snake animation" />
