@@ -4,7 +4,7 @@
 [![My Resume](https://shields.io/badge/%F0%9F%92%BC%20my%20r%C3%A9sum%C3%A9-f5f5dc?&style=for-the-badge)]()
 
 My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. 
-- I’m currently learning: *TypeScript programming, front-end technologies like CSS, and React, and building secure back-ends with tRPC, Prisma and PostgreSQL.*
+- I’m currently learning: *TypeScript programming, front-end technologies like CSS, and React, and building secure back-ends with tRPC, Prisma, and PostgreSQL.*
 - Getting my AWS Solutions Architect Certification!
 
 ### Education:
