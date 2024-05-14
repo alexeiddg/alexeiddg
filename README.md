@@ -5,6 +5,7 @@
 
 My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. 
 - I’m currently learning: *TypeScript programming, front-end technologies like CSS, and React, and building secure back-ends with tRPC, Prisma, and PostgreSQL.*
+- My Interests are Fullstack Application Development, Cloud Architecture & Development, Machine Learning, and Cybersecurity 
 - Getting my AWS Solutions Architect Certification!
 
 ### Education:
