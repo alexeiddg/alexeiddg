@@ -4,9 +4,9 @@
 [![My Resume](https://shields.io/badge/%F0%9F%92%BC%20my%20r%C3%A9sum%C3%A9-f5f5dc?&style=for-the-badge)]()
 
 My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. 
-- I’m currently learning: *TypeScript programming, front-end technologies like CSS, and React, and building secure back-ends with tRPC, Prisma, and PostgreSQL.*
-- My Interests are Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning. 
-- Getting my AWS Solutions Architect Certification!
+- **I’m currently learning:** *TypeScript programming, front-end technologies like CSS, and React, and building secure back-ends with tRPC, Prisma, and PostgreSQL.*
+- **My Interests are:** Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning. 
+- **I'm currently working on:** Getting my AWS Solutions Architect Certification
 
 ### Education:
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
