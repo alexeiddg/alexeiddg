@@ -12,7 +12,7 @@ My name is **Alexei Delgado**, I'm a second-year Computer Science and Engineerin
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
 
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab)](https://skillicons.dev) 
 
 ### Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,react,postgres,vue,mongodb,git)](https://skillicons.dev) 
