@@ -15,6 +15,6 @@ My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,react,postgres,vue,next,mongodb,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,react,angular,postgres,next,mongodb,git)](https://skillicons.dev) 
 
 <img src="https://raw.githubusercontent.com/alexeiddg/alexeiddg/output/snake.svg" alt="Snake animation" />
