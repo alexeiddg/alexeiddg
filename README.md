@@ -4,9 +4,9 @@
 [![My Portfolio](https://shields.io/badge/My%20Portfolio-343a40?&style=for-the-badge)]()
 
 My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. 
-- **I’m currently learning:** *Rust language programming.*
-- **My Interests are:** Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning. 
-- **I'm currently working on:** Getting my AWS Solutions Architect Certification
+- **I’m currently learning:** *Rust & Go language programming.*
+- **My Interests are:** *Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning.* 
+- **I'm currently working on:** *[The Launchpad Project](https://github.com/alexeiddg/Launchpad)*
 
 ### Education:
 - **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
