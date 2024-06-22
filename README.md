@@ -8,9 +8,6 @@ My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering
 - **My Interests are:** *Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning.* 
 - **I'm currently working on:** *[The Launchpad Project](https://github.com/alexeiddg/Launchpad)*
 
-### Education:
-- **Bachelor of Science in Computer Science and Technology** in Tecnológico y de Estudios Superiores de Monterrey, 2026 (Expected)
-
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
 
