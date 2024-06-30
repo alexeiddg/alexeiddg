@@ -8,7 +8,7 @@ My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering
 - **My Interests are:** *Fullstack Application Development, Cloud Architecture & Development, and Machine Learning & Data Science for Machine Learning.* 
 - **I'm currently working on:** *[The Launchpad Project](https://github.com/alexeiddg/Launchpad)*
 
-### Languages & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
 
 <img src="https://raw.githubusercontent.com/alexeiddg/alexeiddg/output/snake.svg" alt="Snake animation" />
