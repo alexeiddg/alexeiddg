@@ -1,6 +1,6 @@
 # Hi there, I'm Alexei! 👋🏻🧑🏻‍💻
 [![Send me an email!](https://img.shields.io/badge/Send_me_an_email-purple?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexeiddg@outlook.com)
-[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/alexeidg)
+[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexeidg/)
 [![My Portfolio](https://shields.io/badge/My%20Portfolio-343a40?&style=for-the-badge)]()
 
 My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering student based in **Guadalajara, Jalisco**. Enthusiast of reinventing the wheel and building things from scratch. 
