@@ -6,7 +6,7 @@
 My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering student based in **Guadalajara, Jalisco**.
 - **I’m currently learning:** *Rust & Go language programming.*
 - **My Interests are:** *Fullstack Application Development, Web Design, Cloud Architecture & Development, Machine Learning & Data Science for Machine Learning.* 
-- **I'm currently working on:** *[The Launchstar Project]()*
+- **I'm currently working on:** *Being Creative @Pathscreative*
 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
