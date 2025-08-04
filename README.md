@@ -4,9 +4,9 @@
 [![My Portfolio](https://shields.io/badge/My%20Portfolio-343a40?&style=for-the-badge)](https://alexei.pathscreative.com)
 
 My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering student based in **Guadalajara, Jalisco**.
-- **I’m currently learning:** **
-- **My Interests are:** *Fullstack Application Development, Web Design, Machine Learning & Data Science for Machine Learning.* 
-- **I'm currently working on:** *Being Creative @Pathscreative*
+- **I’m currently learning:** *Advanced concepts in Machine Learning, AI Engineering workflows, and how to build scalable ML-powered products.*
+- **My Interests are:** *AI Engineering, Full-Stack Application Development, and applying Data Science in real-world ML applications. I’m passionate about building intelligent systems that solve meaningful problems.* 
+- **I'm currently working on:** *@Pathscreative*
 
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,js,ts,py,r,matlab,java)](https://skillicons.dev) 
