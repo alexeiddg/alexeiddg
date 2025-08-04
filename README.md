@@ -3,7 +3,7 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexeidg/)
 [![My Portfolio](https://shields.io/badge/My%20Portfolio-343a40?&style=for-the-badge)](https://alexei.pathscreative.com)
 
-My name is **Alexei Delgado**, I'm a third-year Computer Science and Engineering student based in **Guadalajara, Jalisco**.
+My name is **Alexei Delgado**, I'm a fourth-year Computer Science and Engineering student based in **Guadalajara, Jalisco**.
 - **I’m currently learning:** *Advanced concepts in Machine Learning, AI Engineering workflows, and how to build scalable ML-powered products.*
 - **My Interests are:** *AI Engineering, Full-Stack Application Development, and applying Data Science in real-world ML applications. I’m passionate about building intelligent systems that solve meaningful problems.* 
 - **I'm currently working on:** *@Pathscreative*
